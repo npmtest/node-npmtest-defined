@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [defined (v1.0.0)](https://github.com/substack/defined)  [![npm package](https://img.shields.io/npm/v/npmtest-defined.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-defined) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-defined.svg)](https://travis-ci.org/npmtest/node-npmtest-defined)",
+    "description": "#### basic test coverage for  [defined (v1.0.0)](https://github.com/substack/defined)  [![npm package](https://img.shields.io/npm/v/npmtest-defined.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-defined) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-defined.svg)](https://travis-ci.org/npmtest/node-npmtest-defined)",
     "devDependencies": {
         "defined": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
